@@ -40,19 +40,6 @@
 
 <channels>
 
-<channel>
-
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Big Brother Brasil[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
-
-<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/Big%20brother%20brasil.xml</externallink>
-
-<thumbnail>https://i.imgur.com/t5dCV7C.png</thumbnail>
-
-<fanart>https://i.imgur.com/hGAhTEt.jpg</fanart>
-
-<info>Brasil servidor 1</info>
-
-</channel>
 
 <channel>
 
@@ -82,32 +69,5 @@
 
 </channel>
 
-<channel>
-
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Brasil servidor 3[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
-
-<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/Brasil%20servidor%203.xml</externallink>
-
-<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/brasil1.gif</thumbnail>
-
-<fanart>https://i.imgur.com/RAvaqgk.jpg</fanart>
-
-<info>Brasil servidor 3</info>
-
-</channel>
-
-<channel>
-
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Brasil servidor 4[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
-
-<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/brasil%20servidor%204.xml</externallink>
-
-<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/brasil1.gif</thumbnail>
-
-<fanart>https://i.imgur.com/RAvaqgk.jpg</fanart>
-
-<info>Brasil servidor 3</info>
-
-</channel>
 
 </channels>
