@@ -1,0 +1,191 @@
+
+
+
+
+<channels>
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR lime]Bem Vindos[/COLOR][/B]</name>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/bemvindos2.gif</thumbnail>
+
+<externallink>https://www.paypal.com/paypalme/vilhao/</externallin
+
+<fanart>https://i.imgur.com/RfS6c54.jpg</fanart>
+
+<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
+
+</channel>
+
+
+
+    
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR lime]Nacional - Porto[/COLOR][/B] [B][COLOR orange]17:30 hoje[/COLOR][/B]</name>
+
+<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/AA%20Jogo%20do%20dia.xml</externallink>
+
+<thumbnail>https://i.imgur.com/MRM6scU.jpg</thumbnail>
+
+<fanart>https://i.imgur.com/BmSbCJ7.png</fanart>
+
+<info>Desporto servidor 1</info>
+
+</channel>    
+
+
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Paises TV[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/paises.gif</thumbnail>
+
+<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/categorias/Categoria%20paises%20do%20mundo.xml</externallink>
+
+<fanart>https://i.imgur.com/AmjgfNW.jpg</fanart>
+
+<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B] [B][COLOR blue]T[/COLOR][/B][B][COLOR yellow]V[/COLOR][/B]</info>
+
+</channel>
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Desporto[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+
+<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/categorias/categoria%20desporto.xml</externallink>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/desporto.gif</thumbnail>
+
+<fanart>https://i.imgur.com/Vfl4LC2.jpg</fanart>
+
+<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
+
+</channel>
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Criancas[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+
+<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/criancas.xml</externallink>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/criancas.gif</thumbnail>
+
+<fanart>https://i.imgur.com/7dNliIM.jpg</fanart>
+
+<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
+
+</channel>
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Cinema[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+
+<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/categorias/categoria%20cinema.xml</externallink>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/cinema.gif</thumbnail>
+
+<fanart>https://i.imgur.com/4mmZGHd.jpg</fanart>
+
+<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
+
+</channel>
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Musica[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+
+<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/categorias/categoria%20musica.xml</externallink>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/musica.gif</thumbnail>
+
+<fanart>https://i.imgur.com/tYYlK9W.jpg</fanart>
+
+<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
+
+</channel>
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Videos Para Relaxar[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+
+<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/Videos%20Para%20Relaxar.xml</externallink>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/relax.gif</thumbnail>
+
+<fanart>https://i.imgur.com/A2lzd21.jpg</fanart>
+
+<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
+
+</channel>
+
+
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Velozes & Furiosos[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+
+<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/Fast%20and%20Furious.xml</externallink>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/fastandfurious.gif</thumbnail>
+
+<fanart>https://i.imgur.com/h4qumn9.jpg</fanart>
+
+<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
+
+</channel>
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Live Webcams[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+
+<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/Cameras%20Vilhao.xml</externallink>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/web.gif</thumbnail>
+
+<fanart>https://i.imgur.com/vFdVVrl.jpg</fanart>
+
+<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
+
+</channel>
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Testes[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+
+<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/testes.xml</externallink>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/testes.gif</thumbnail>
+
+<fanart>https://i.imgur.com/CZeyYAF.jpg</fanart>
+
+<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
+
+</channel>
+
+
+
+</channels>
