@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<layoutype>Vilhao</layoutype>
+
+
+
+<channels>
+
+    
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Filmes[/COLOR][/B]  [B][COLOR lime]ON[/COLOR][/B]</name>
+
+<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/categorias/filmes%20do%20vilhao%20eng.xml</externallink>
+
+<thumbnail>https://i.imgur.com/alHnCjX.png</thumbnail>
+
+<fanart>https://i.imgur.com/sB6eEKt.jpg</fanart>
+
+<info>Filmes Portugueses</info>
+
+</channel>
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Filmes Portugueses[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+
+<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/Cinema%20Portugues.xml</externallink>
+
+<thumbnail>https://i.imgur.com/Dyc6lFF.png</thumbnail>
+
+<fanart>https://i.imgur.com/mzslmyg.jpg</fanart>
+
+<info>Filmes Portugueses</info>
+
+</channel>
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Filmes Brasileiros[/COLOR][/B] [B][COLOR lime]Em construcao[/COLOR][/B]</name>
+
+<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/cinema%20brasileiros.xml</externallink>
+
+<thumbnail>https://i.imgur.com/F1Sxhhs.png</thumbnail>
+
+<fanart>https://i.imgur.com/eZjQh47.jpg</fanart>
+
+<info>Filmes Brasileiros</info>
+
+</channel>
+
+
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Peliculas En Espanol[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+
+<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/cinema%20espanhol.xml</externallink>
+
+<thumbnail>https://i.imgur.com/CbX6rVe.png</thumbnail>
+
+<fanart>https://i.imgur.com/ZX0Clze.jpg</fanart>
+
+<info>Peliculas En Espanol</info>
+
+</channel>
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Comedias Legendadas[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+
+<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/Comedias%20Legendadas.xml</externallink>
+
+<thumbnail>https://dl-web.meocloud.pt/dlweb/Qk9X-WKbJYZvccgspm-i4g/download/icon.png?public=28ed8b7b-ad36-48b1-b9fd-7e2460eba5db</thumbnail>
+
+<fanart>https://dl-web.meocloud.pt/dlweb/Qk9X-WKbJYZvccgspm-i4g/download/comedias%20legendadas.jpg?public=c97a0080-a8e1-48c6-8d39-51f527b2fdec</fanart>
+
+<info>Comedias Do Vilhao Legendados</info>
+
+</channel>
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Comedia Portuguesa[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+
+<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/categorias/Categoria%20Comedia%20Portuguesa.xml</externallink>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/comediapt.gif</thumbnail>
+
+<fanart>https://i.imgur.com/MdYJ3HC.jpg</fanart>
+
+<info>Comedias Do Vilhao</info>
+
+</channel>
+
+
+
+
+
+</channels>
